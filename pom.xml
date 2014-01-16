@@ -29,7 +29,7 @@
   			<artifactId>exec-maven-plugin</artifactId>
   			<version>1.2.1</version>
   			<configuration>
-  				<mainClass>com.silanis.lottery.LotteryApp</mainClass>
+  				<mainClass>lottery.LotteryApp</mainClass>
   			</configuration>
   		</plugin>
   	</plugins>
